@@ -39,9 +39,7 @@
 | `/quests` | View daily quests with progress bars | Everyone |
 | `/rerollquest` | Reroll a specific daily quest | Everyone |
 | `/status` | Bot status and your account info | Everyone |
-| `/setalertchannel` | Set the channel for STW mission alerts | `Manage Server` |
-| `/alerts` | Toggle mission alerts on / off | `Manage Server` |
-| `/refreshstringlist` | Force re-download item names | `Manage Server` |
+
 
 
 
