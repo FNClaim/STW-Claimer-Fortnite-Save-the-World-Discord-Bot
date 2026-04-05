@@ -6,10 +6,10 @@
 *A private Discord bot that automatically claims free llamas, tracks daily quests, and posts live mission alerts.*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![discord.py](https://img.shields.io/badge/discord.py-2.x-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-FNClaim-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6cAvBaq2p7)
 ![Epic Games](https://img.shields.io/badge/Epic%20Games%20API-000000?style=for-the-badge&logo=epicgames&logoColor=white)
 ![License](https://img.shields.io/badge/Private%20Use-Only-FF6B35?style=for-the-badge)
-[![Discord](https://img.shields.io/badge/Discord-FNClaim-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6cAvBaq2p7)
+
 
 </div>
 
