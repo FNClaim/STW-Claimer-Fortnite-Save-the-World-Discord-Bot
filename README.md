@@ -48,7 +48,6 @@
 ---
 
 
-2. Alerts post automatically whenever a notable mission appears
 
 ---
 
@@ -57,11 +56,9 @@
 > This bot is designed with **privacy as the top priority**.
 
 - ✅ Account linking is done entirely via **DM** — credentials are never posted in public channels
-- ✅ Each Discord user's data is stored separately in individual `auth_<user_id>.json` files
 - ✅ **Device auth tokens** are used instead of passwords — revoke them anytime from Epic settings
-- ✅ **No passwords are ever stored** — only `deviceId` and `secret` from Epic's device auth
+- ✅ **No passwords are ever stored** 
 - ✅ Bot responses are **ephemeral** — only you can see your own account data and results
-- ✅ All data is stored **locally** on your machine and never sent to any third party
 
 
 ```
@@ -80,7 +77,3 @@ To revoke the bot's access to your Epic account at any time:
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is **not affiliated with, endorsed by, or related to Epic Games**.
-Use at your own risk. Automating Epic Games accounts may violate their [Terms of Service](https://www.epicgames.com/site/en-US/tos).
